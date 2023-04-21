@@ -5,10 +5,9 @@ const Header = () => {
   return (
     <div className="nav-bar">
       <ul>
-        <li>logo</li>
-        <li>nav1</li>
-        <li>nav2</li>
-        <li>nav3</li>
+        <li>Home</li>
+        <li>Our Service</li>
+        <li>Contact</li>
       </ul>
     </div>
   )
